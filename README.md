@@ -11,11 +11,17 @@ Bathrooms
 Dataset used: House Price Dataset (Provided by SkillCraft)
 
 🧠 Steps Performed
+
 1️⃣ Loaded and analyzed the dataset
+
 2️⃣ Selected important features (sqft, bedrooms, bathrooms)
+
 3️⃣ Split data into training & testing sets
+
 4️⃣ Trained Linear Regression Model
+
 5️⃣ Evaluated performance using Mean Squared Error
+
 6️⃣ Generated output graph showing prediction line
 
 📊 Output
@@ -24,13 +30,24 @@ Dataset used: House Price Dataset (Provided by SkillCraft)
 
 
 🛠 Technologies Used
+
 Python
+
 Pandas
+
 NumPy
+
 Scikit-Learn
+
 Matplotlib
+
+
 📂 Source Code
+
 All source files are available in this repository.
 
+
+
 🙌 Acknowledgment
+
 Thanks to SkillCraft for this amazing learning opportunity!
